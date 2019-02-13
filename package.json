@@ -1,0 +1,11 @@
+{
+  "name": "sequelize-migration",
+  "version": "0.0.1",
+  "description": "This module will provide a solution for auto migration for migrations and seeders file. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amar <medaamarnadh@gmail.com>",
+  "license": "ISC"
+}
