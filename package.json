@@ -1,6 +1,6 @@
 {
   "name": "sequelize-auto-migration",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This module will provide a solution for auto migration for migrations and seeders file. ",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,14 @@
     "underscore": "^1.9.1",
     "async": "^2.6.1"
   },
+  "keywords": [
+    "ElectronJs",
+    "sequelize",
+    "auto",
+    "migration",
+    "sequelize-auto-migration",
+    "sequelize auto migration"
+  ],
   "author": "Amar <medaamarnadh@gmail.com>",
   "license": "ISC"
 }
