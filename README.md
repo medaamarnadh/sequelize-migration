@@ -107,5 +107,4 @@ app.on('activate', function () {
 // code. You can also put them in separate files and require them here.
 
 ```
-
-
+To get full example please [click here](https://github.com/medaamarnadh/sequelize-migration/tree/master/examples)
