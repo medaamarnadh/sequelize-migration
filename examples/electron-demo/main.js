@@ -9,13 +9,6 @@ const async = require('async');
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow
 
-
- 
-  
-
-
-console.log('After config::::::::::');
-
 async function createWindow () {
   await SequelizeAuto.config({
     migrationPath:path.resolve('./migrations'),
