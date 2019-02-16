@@ -1,6 +1,6 @@
 {
   "name": "sequelize-auto-migration",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This module will provide a solution for auto migration for migrations and seeders file. ",
   "main": "index.js",
   "scripts": {
