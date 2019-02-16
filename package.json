@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies":{
+    "underscore": "^1.9.1",
+    "async": "^2.6.1"
+  },
   "author": "Amar <medaamarnadh@gmail.com>",
   "license": "ISC"
 }
