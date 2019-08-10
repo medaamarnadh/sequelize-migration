@@ -108,3 +108,5 @@ app.on('activate', function () {
 
 ```
 To get full example please [click here](https://github.com/medaamarnadh/sequelize-migration/tree/master/examples)
+
+We are extending the support this module. So, Please raise issues and suggest [here](https://github.com/medaamarnadh/sequelize-migration/issues). 
